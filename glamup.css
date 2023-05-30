@@ -1,0 +1,16 @@
+.ng a{
+    text-decoration: none;
+    color: black;
+    padding:10px;
+}
+#left{
+    margin-left:37%;
+}
+#ln{
+    margin-left:20%;
+}
+.pic{
+    margin-top:20px;
+    margin-right:10px;
+    margin-left:10px;
+}

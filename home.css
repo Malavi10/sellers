@@ -1,0 +1,16 @@
+.ng a{
+    text-decoration: none;
+    color: black;
+    padding:10px;
+}
+#left{
+    margin-left:38%;
+}
+#right{
+    padding:200px;
+    font-size: large;
+}
+.container{
+   
+    /* margin: 5px;  */
+}

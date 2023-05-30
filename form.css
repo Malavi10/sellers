@@ -1,0 +1,9 @@
+.box{
+    padding:20px;
+    border: 2px solid grey;
+    width: 20%;
+    box-align: center;
+}
+.input{
+    padding:10px;
+}

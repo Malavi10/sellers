@@ -1,0 +1,9 @@
+.box{
+    padding:20px;
+    border: 2px solid grey;
+    width: 30%;
+    box-align: center;
+}
+.ip{
+    padding:10px;
+}
